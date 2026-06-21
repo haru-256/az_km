@@ -1,0 +1,5 @@
+[tools]
+terraform = "1.15.6"
+"azure-cli" = "2.87.0"
+tflint = "0.63.1"
+trivy = "0.71.2"

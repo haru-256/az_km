@@ -1,0 +1,3 @@
+[submodule "az_km_aoai_chatapp"]
+	path = az_km_aoai_chatapp
+	url = https://github.com/07JP27/az_km_aoai_chatapp
